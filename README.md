@@ -30,7 +30,7 @@
     - ipykernel
 
 ## Observação:
-    - 
+    
 
 # Case - Cancelamento de Clientes
 
